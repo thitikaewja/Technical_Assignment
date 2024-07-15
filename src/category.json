@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "category": "Thriller"
+    },
+    {
+        "id": 2,
+        "category": "Adventure"
+    },
+    {
+        "id": 3,
+        "category": "Animation"
+    },
+    {
+        "id": 4,
+        "category": "Comedy"
+    },
+    {
+        "id": 5,
+        "category": "Action"
+    },
+    {
+        "id": 6,
+        "category": "Drama"
+    },
+    {
+        "id": 7,
+        "category": "Mystery"
+    },
+    {
+        "id": 8,
+        "category": "Horror"
+    },
+    {
+        "id": 9,
+        "category": "Crime"
+    },
+    {
+        "id": 10,
+        "category": "Biography"
+    },
+    {
+        "id": 11,
+        "category": "Fantasy"
+    }
+]

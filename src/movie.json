@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Escape",
+    "year": "18 July 2024",
+    "category": "Thriller",
+    "description": "Military camp nearby the DMZ of a divided land, where the South is the land of freedom, and the opposite side is land of repression. Sergeant Kyu-nam, who has been planning an escape to the South for a long time, gets caught while stopping a common soldier, Dong-hyuk, from escaping. At risk of execution, State Security Department Major Hyun-sang recognizes Kyu-nam from childhood. Instead of accusing him, Hyun-sang decides to make Kyu-nam a hero, who caught a deserter. Hyun-sang, therefore, has succeeded in securing his performance records by saving Kyu-nam’s life. Nevertheless, Kyu-nam wants to live his life by his own will, not the government’s commands. He never gives up on crossing the border. On the other hand, Hyun-sang desperately stops Kyu-nam to protect his life which has been built by giving up his dream.",
+    "pic": "https://i0.wp.com/www.korseries.com/wp-content/uploads/2024/07/2-ESCAPE_%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9E%E0%B9%89%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81_%E0%B8%AE%E0%B8%A2%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B8%B1%E0%B8%87-Poster.jpg?resize=750%2C1071&ssl=1"
+  },
+  {
+    "id": 2,
+    "name": "The Garfield Movie",
+    "year": "22 May 2024",
+    "category": "Adventure , Animation , Comedy",
+    "description": "Animated feature film based on the popular comic strip about a sarcastic, lasagna-loving cat.",
+    "pic": "https://m.media-amazon.com/images/M/MV5BZGYxMjk0YWEtMTljMS00OGQ0LWIwOWEtYTAzZDZkODRiNTljXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bad Boys Ride Or Die",
+    "year": "05 June 2024",
+    "category": "Action , Adventure , Comedy",
+    "description": "A modern, highly specialized police unit collides with the Bad Boys when a new threat emerges in Miami.",
+    "pic": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ant-Man And The Wasp: Quantumania",
+    "year": "15 February 2023",
+    "category": "Superhero, Action, Adventure",
+    "description": "Superhero partners Scott Lang (Ant-Man) and Hope Van Dyne (the Wasp) continue their adventures as they explore the Quantum Realm and face new threats.",
+    "pic": "https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Knock at the Cabin",
+    "year": "02 February 2023",
+    "category": "Horror, Mystery, Thriller",
+    "description": "While vacationing at a remote cabin, a young girl and her parents are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse.",
+    "pic": "https://upload.wikimedia.org/wikipedia/en/e/e5/Knock_at_the_cabin.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Fabelmans",
+    "year": "02 February 2023",
+    "category": "Drama",
+    "description": "A semi-autobiography based on Spielberg's own childhood growing up in post-war Arizona, from age seven to eighteen.",
+    "pic": "https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "House of Gucci",
+    "year": "20 January 2022",
+    "category": "Drama, Crime, Biography",
+    "description": "The turbulent marriage and divorce of Patrizia and Maurizio Gucci, the head of the Gucci fashion house, leads to murder, deceit, and revenge.",
+    "pic": "https://m.media-amazon.com/images/M/MV5BMmVkNWNlYzAtYjI1ZC00NmJiLWFiOWUtZjNlNWRjYzhmZTljXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Batman",
+    "year": "3 January 2022",
+    "category": "Action, Crime, Drama",
+    "description": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans becomes clear, he must forge new relationships, unmask the culprit, and bring justice to the abuse of power and corruption that has long plagued the metropolis.",
+    "pic": "https://m.media-amazon.com/images/M/MV5BOGE2NWUwMDItMjA4Yi00N2Y3LWJjMzEtMDJjZTMzZTdlZGE5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "year": "4 May 2022",
+    "category": "Action, Adventure, Fantasy",
+    "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+    "pic": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "John Wick: Chapter 4",
+    "year": "22 March 2023",
+    "category": "Action, Crime, Thriller",
+    "description": "John Wick: Chapter 4 continues the saga of the legendary hitman, John Wick, as he uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "pic": "https://m.media-amazon.com/images/I/81fk-N7tvbL._AC_UF894,1000_QL80_.jpg"
+  }
+]
